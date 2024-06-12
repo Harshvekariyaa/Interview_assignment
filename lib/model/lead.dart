@@ -1,4 +1,3 @@
-
 class Lead {
   final String firstName;
   final String lastName;
